@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\Variable-Boost-Converter\Voltage Boost Converter\Sheet1.SchDoc
+DocumentPath=..\Main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MEBBXAVL
 
 [Document2]
-DocumentPath=..\..\Variable-Boost-Converter\Voltage Boost Converter\PCB1.PcbDoc
+DocumentPath=..\Main.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -82,57 +82,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLUKQCSR
-
-[Document3]
-DocumentPath=..\..\Variable-Boost-Converter\Voltage Boost Converter\Voltage Boost Converter.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
-DocumentPath=..\..\Variable-Boost-Converter\Voltage Boost Converter\Project Outputs for Voltage Boost Converter\CAMtastic5.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
-DocumentPath=..\..\Variable-Boost-Converter\Voltage Boost Converter\Project Outputs for Voltage Boost Converter\CAMtastic6.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=..\..\Variable-Boost-Converter\Voltage Boost Converter\Project Outputs for Voltage Boost Converter\PCB1-RoundHoles.TXT
